@@ -1,2 +1,2 @@
-# filterhub.github.io
+# filterhub.io.github.io
 Filter Hub
